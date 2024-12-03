@@ -1,6 +1,7 @@
 # SUMO and NS-3 tools for VANET simulation
 
 We assume basic unix knowledge. There are many hardcoded paths (sadly), it is best to replace them with actual paths before running.
+Code quality was not a priority, neither was reusability. This is a collection of scripts that were used to generate data for a research project.
 
 ## SUMO related files
 
